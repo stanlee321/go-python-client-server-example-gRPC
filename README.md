@@ -1,6 +1,6 @@
 # Learning gRPC with Go and Python
 
-This code base is an example of Go and Python clients for gRPC protocol.
+This code base is an example of Go and Python client and server for gRPC protocol.
 
 <div style="text-align:center"><img src ="https://github.com/stanlee321/go-python-client-server-example-gRPC/blob/master/microservice_example.png" /></div>
 
